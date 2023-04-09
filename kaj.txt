@@ -1,0 +1,24 @@
+Abrar:
+database connection
+form input
+front end for sign input
+
+
+
+Anik:
+    database table banaba:
+    chatgpt diye 10 pupulation:
+                package -> 3 packages (bronje, silver, gold)
+                customer -> 10 people
+
+
+Wahidur:
+    database table banaba:
+    chatgpt diye 10 pupulation:
+                location    9 locations :3 from each type of package;
+                employess   10 peopls;
+
+
+
+
+

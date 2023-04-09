@@ -1,0 +1,14 @@
+    $result = mysqli_query($conn, $sql);
+    // echo($result);
+    // $printable = mysqli_fetch_array($result);
+
+    // fetch the resulting rows as an array
+    $printable = mysqli_fetch_all($result,MYSQLI_ASSOC);
+
+    // free result from memory
+    mysqli_free_result($result);
+
+    // close connection
+    mysqli_close($conn);
+    
+    print_r($printable);
